@@ -9,10 +9,12 @@
     <th align="center" width="150px">
       <a href="https://github.com/23MinL"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/195278357?s=400&u=e2e1ce6e68df527a2292a7b59efb0831a7277f0d&v=4"/>
     </th>
+  </tr>
+  <tr>
     <td align="center" width="150px">
       <a href="https://github.com/23MinL"><strong>:tree: 23MinL</strong></a>
     </td>
-  </tr>
+  </tr>  
 </table>
 
 ## 스터디 개요 📚
