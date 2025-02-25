@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td align="center" width="150px">
-      <a href="https://github.com/23MinL"><strong>:tree: 23MinL</strong></a>
+      <a href="https://github.com/23MinL"><strong>:deciduous_tree: 23MinL</strong></a>
     </td>
   </tr>  
 </table>
