@@ -45,8 +45,8 @@
 현재 함께 공부 중인 서적은 다음과 같습니다:
 
 - 📘 **[이펙티브 자바 Effective Java 3/E]**  
-- [이펙티브자바 공식 Github](https://github.com/WegraLee/effective-java-3e-source-code)
-- [이펙티브자바 3판 번역 용어 설명](https://docs.google.com/document/d/1Nw-_FJKre9x7Uy6DZ0NuAFyYUCjBPCpINxqrP0JFuXk/edit)
+  - [이펙티브자바 공식 Github](https://github.com/WegraLee/effective-java-3e-source-code)
+  - [이펙티브자바 3판 번역 용어 설명](https://docs.google.com/document/d/1Nw-_FJKre9x7Uy6DZ0NuAFyYUCjBPCpINxqrP0JFuXk/edit)
 
 ## 🎞 스터디 일지
 
